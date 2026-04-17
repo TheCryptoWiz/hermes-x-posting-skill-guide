@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "text": "Post 1: short educational update with a clear point.",
+      "date": "2026-05-01",
+      "time": "09:00"
+    },
+    {
+      "text": "Post 2: quick opinion or insight that fits your content style.",
+      "date": "2026-05-01",
+      "time": "13:00"
+    },
+    {
+      "text": "Post 3: evening post with a call to action or question.",
+      "date": "2026-05-01",
+      "time": "18:00"
+    }
+  ]
+}
