@@ -1,0 +1,6 @@
+node_modules/
+chrome-profile/
+.env
+.env.*
+*.log
+*.local.json
